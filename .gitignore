@@ -1,0 +1,47 @@
+# Prerequisites
+*.d
+
+# CMake files
+build/
+
+# VScode files
+.vscode/
+
+# my files while debugging
+*.bmp
+
+# Preview
+!preview/*
+
+#tsv input
+*.tsv
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
